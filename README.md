@@ -157,6 +157,7 @@ expertise.
 
 -  [Mingyu Yuan](https://github.com/mingyu-yuan)
 -  [Pratik Sachdeva](https://github.com/pssachdeva)
+-  [Tom van Nuenen](https://github.com/tomvannuenen)
 -  [Ben Gebre-Medhin](http://gebre-medhin.com)
 -  [Laura Nelson](http://www.lauraknelson.com)
 -  [Teddy Roland](https://teddyroland.com/about/)
