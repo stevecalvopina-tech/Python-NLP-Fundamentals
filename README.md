@@ -5,7 +5,11 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the materials for the D-Lab Python NLP Fundamentals
-workshop. We recommend attending Python Fundamentals, Python Data Wrangling, and
+workshop. 
+
+## Prerequisites
+
+We recommend attending Python Fundamentals, Python Data Wrangling, and
 Python Machine Learning Fundamentals prior to this workshop.
 
 Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what’s running now, and review prerequisites.
